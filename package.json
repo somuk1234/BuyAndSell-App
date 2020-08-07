@@ -1,0 +1,30 @@
+{
+  "name": "buyandsell",
+  "version": "1.0.0",
+  "description": "An App to Buy and sell objects within organisation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error No test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somuk1234/BuyAndSell-App.git"
+  },
+  "keywords": [
+    "hello1234"
+  ],
+  "author": "somu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somuk1234/BuyAndSell-App/issues"
+  },
+  "homepage": "https://github.com/somuk1234/BuyAndSell-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.10",
+    "mysql": "^2.18.1",
+    "req-flash": "0.0.3"
+  }
+}
